@@ -1,0 +1,4 @@
+#Mon Apr 22 19:30:38 COT 2019
+base.0=G\:\\DataStorageKotlin-master\\DataStorageKotlin-masterPRESOLID\\DataStorageKotlin-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
